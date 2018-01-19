@@ -59,6 +59,4 @@ public class SolrTest {
         }  
         hsc.close();  
 	}
-
-   
 }
